@@ -1,0 +1,6 @@
+@Order_Processing_Serverless_in_aws_HostAddress = http://localhost:5180
+
+GET {{Order_Processing_Serverless_in_aws_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
